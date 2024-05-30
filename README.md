@@ -10,4 +10,5 @@
 
 > Whether 'tis Nobler in the mind to suffer
 > The Slings and Arrows of outrageous Fortune,
+
 How big are these slings and in particular, these arrows?
